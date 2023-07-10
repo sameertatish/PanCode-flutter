@@ -1,0 +1,27 @@
+{
+  "langNow": "ar",
+  "connectionTimedOut": "انتهت مدة الاتصال",
+  "receivingTimeoutOccurred": "انتهت مدة الاستلام",
+  "requestSendTimeout": "انتهت مدة الطلب",
+  "noInternet": "الاتصال بالانترنت غير متوفر",
+  "unexpectedErrorOccurred": "حدث خطأ غير متوقع",
+  "somethingWentWrong": "حدث خطأ ما",
+  "authenticationFailed": "فشلت المصادقة",
+  "theAuthenticatedUserIsNotAllowedToAccessTheSpecifiedApiEndpoint": "لا يُسمح للمستخدم المصادق عليه بالوصول إلى هذه النقطة",
+  "theRequestedResourceDoesNotExist": "هذا الطلب غير موجود",
+  "methodNotAllowed": "الطريقة غير مسموحة. يرجى التحقق من عنوان السماح للطرق المسموح بها.",
+  "UnsupportedMediaType": "نوع وسائط غير مدعوم. نوع المحتوى المطلوب أو رقم الإصدار غير صالح",
+  "tooManyRequests": "عدد كثير من الطلبات",
+  "gender": "الجنس",
+  "genderMale": "ذكر",
+  "genderFemale": "أنثى",
+  "validator": {
+    "email": "الرجاء ادخال بريد الكتروني صحيح",
+    "phone": "رقم الهاتف مطلوب",
+    "empty": "هذا الحقل مطلوب",
+    "passwordValid": "يجب ان تحتوي على 8 محارف على الأٌقل أحرف صغيرة وكبيرة ورمز ورقم",
+    "confirm_password": "كلمة السر غير متطابقة",
+    "shouldBeNumber": "الرجاء ادخال رقم صحيح",
+    "fullName": "هذا الحقل يجب ان يحتوي على أحرف يمكن ان يحتوي على احدى الرموز الخاصة مثل: ( ' _ - )"
+  }
+}

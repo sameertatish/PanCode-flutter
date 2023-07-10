@@ -1,0 +1,48 @@
+name: test_flutter
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  auto_route: ^7.3.2
+  auto_route_generator: ^7.1.1
+  build_runner: ^2.4.4
+  flutter_svg: ^1.1.6
+  logger: ^1.1.0
+  fluttertoast: ^8.1.1
+  shared_preferences: ^2.0.15
+  freezed: ^2.2.0
+  freezed_annotation: ^2.2.0
+  json_serializable: ^6.5.3
+  json_annotation: ^4.8.0
+  flutter_gen: ^5.1.0+1
+  flutter_gen_runner: any
+  flutter_bloc: ^8.1.1
+  easy_localization: ^3.0.2
+  image_picker: ^0.8.6
+  dropdown_button2: ^1.9.2
+  responsive_sizer: ^3.1.1
+  equatable: ^2.0.5
+  speed_dial_fab: ^2.3.0
+  connectivity_plus: ^4.0.1
+  flutterfire_cli: ^0.2.7
+  firebase_core: ^2.14.0
+  firebase_crashlytics: ^3.3.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/lang/

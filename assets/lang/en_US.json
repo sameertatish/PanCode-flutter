@@ -1,0 +1,28 @@
+{
+  "langNow": "en",
+  "connectionTimedOut": "Connection timed out",
+  "receivingTimeoutOccurred": "Receiving timeout occurred",
+  "requestSendTimeout": "Request send timeout",
+  "noInternet": "No Internet",
+  "unexpectedErrorOccurred": "Unexpected error occurred.",
+  "somethingWentWrong": "Something went wrong",
+  "authenticationFailed": "Authentication failed",
+  "theAuthenticatedUserIsNotAllowedToAccessTheSpecifiedApiEndpoint": "The authenticated user is not allowed to access the specified API endpoint.",
+  "theRequestedResourceDoesNotExist": "The requested resource does not exist",
+  "methodNotAllowed": "Method not allowed. Please check the Allow header for the allowed HTTP methods",
+  "UnsupportedMediaType": "Unsupported media type. The requested content type or version number is invalid",
+  "tooManyRequests": "Too many requests",
+  "areYousureWantTODiscardtheChanges": "Are you sure you want to discard the changes ?",
+  "gender": "Gender",
+  "genderMale": "Male",
+  "genderFemale": "Female",
+  "validator": {
+    "email": "please enter valid email",
+    "phone": "phone is required",
+    "empty": "filed is required",
+    "confirm_password": "password doesn't match",
+    "shouldBeNumber": "please enter a number",
+    "passwordValid": "It must contain at least 8 characters, uppercase and lowercase letters, a symbol and a number",
+    "fullName": "This field must contain letters It can contain one of the special characters such as: ( ' _ - )"
+  }
+}
